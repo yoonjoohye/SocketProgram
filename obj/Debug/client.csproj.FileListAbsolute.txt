@@ -1,0 +1,10 @@
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\obj\Debug\client.client.resources
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\bin\Debug\client.exe.config
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\bin\Debug\client.exe
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\bin\Debug\client.pdb
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\obj\Debug\client.exe
+C:\Users\윤주혜\Desktop\3113 윤주혜\client\obj\Debug\client.pdb
